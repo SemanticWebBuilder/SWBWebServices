@@ -54,14 +54,14 @@
           <version>20160810</version>
         </dependency>
         <dependency>
-          <groupId>${project.groupId}</groupId>
+          <groupId>org.semanticwb</groupId>
           <artifactId>SWBBase</artifactId>
-          <version>${project.version}</version>
+          <version>5.0</version>
         </dependency>
         <dependency>
-          <groupId>${project.groupId}</groupId>
+          <groupId>org.semanticwb</groupId>
           <artifactId>SWBXMLRPCCommon</artifactId>
-          <version>${project.version}</version>
+          <version>5.0</version>
         </dependency>
         <dependency>
           <groupId>javax</groupId>
